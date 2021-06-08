@@ -1,6 +1,8 @@
 # GDCmagnetic
 Binder notebook to convert GDC expected ephemeris to Apex magnetic coordinates
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lkilcommons/GDCmagnetic/HEAD)
+
 # How to use
 
 1. Download data from [NASA GDC Support Page](https://ccmc.gsfc.nasa.gov/missionsupport/GDC_support.php)
